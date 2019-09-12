@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15054" started-at="2019-09-06T19:07:15Z" finished-at="2019-09-06T19:07:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15054" started-at="2019-09-06T19:07:15Z" finished-at="2019-09-06T19:07:31Z">
+      <class name="com.mypages.WebTableClass">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.mypages.WebTableClass@4501b7af]" name="Setup" is-config="true" duration-ms="13917" started-at="2019-09-06T19:07:16Z" finished-at="2019-09-06T19:07:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="Webtable()[pri:0, instance:com.mypages.WebTableClass@4501b7af]" name="Webtable" duration-ms="1120" started-at="2019-09-06T19:07:29Z" finished-at="2019-09-06T19:07:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Webtable -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.mypages.WebTableClass@4501b7af]" name="teardown" is-config="true" duration-ms="0" started-at="2019-09-06T19:07:31Z" finished-at="2019-09-06T19:07:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.mypages.WebTableClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
